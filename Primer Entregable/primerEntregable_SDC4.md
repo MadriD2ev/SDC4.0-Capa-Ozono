@@ -8,7 +8,7 @@
 
 ​																	 Integrantes del Equipo
 
-​						1. César Miranda Cantero                                             2. David Tamayo             
+​						1. César Miranda Cantero                                             2. David Tamayo Ramírez            
 
 ​						3. Madrid Gutiérrez Hernández                                   4. Luis Enrique Moreno Mendieta
 
