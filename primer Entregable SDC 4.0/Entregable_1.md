@@ -1,7 +1,9 @@
 # Descripción del problema y entendimiento del contexto
 
 Determinar las Sustancias Agotadoras de la Capa de Ozono (SAO) y la correlación que tiene respecto a la contaminación del aire y los posibles efectos secundarios que se podrían generar en los seres humanos, animales o plantas.
-Mi propuesta:
+
+
+-Mi propuesta:
 Crear un modelo matemático, utilizando las técnicas y algoritmos de machine learning más actuales, para predecir la tendencia que tendrán en un futuro reciente, los niveles de contaminantes más comunes presentes en el aire, con el objetivo de emitir nuestro criterio y poder evaluar cuál será el posible impacto en la sociedad.   
 
 # Marco Teórico 
