@@ -2,7 +2,7 @@
 
 
 
-![SDC 4.0](C:\Users\madrid.gutierrez\Downloads\SDC4.jpg)
+![SDC4](https://user-images.githubusercontent.com/68882204/130522869-4d64a3a3-72d7-4ecc-ad79-faae7b08efc5.jpg)
 
 
 
@@ -10,9 +10,10 @@
 
 ​						1. César Miranda Cantero                                             2. David Tamayo Ramírez            
 
-​						3. Madrid Gutiérrez Hernández                                   4. Luis Enrique Moreno Mendieta
+​						3. Madrid Gutiérrez Hernández                                   4. Luis Enrique Moreno Mendieta 
+                                   5. Julio César Álvarez Charqueño
 
-  															 5. Julio César Álvarez Charqueño
+  															 
 
 
 
