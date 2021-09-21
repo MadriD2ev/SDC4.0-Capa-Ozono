@@ -90,12 +90,12 @@ Se esperaría contar con un modelo predictivo de la calidad del aire en la ZMG q
 
 #### General
 
-Predecir la calidad del aire por hora y sus afectaciones sobre la salud pública y la movilidad en la zona metropolitana de la ciudad de Guadalajara (ZMG).
+Predecir la calidad del aire por horas, días y/o semanas y sus afectaciones sobre la salud pública y la movilidad en la zona metropolitana de la ciudad de Guadalajara (ZMG).
 
 #### Específicos
 
 - Comparación de los modelos predictivos de machine learning  sobre la cálidad de aire en el área metropolitana de Guadalajara.
-- Comparación del modelo elegido de machine learning para prediccion de la calidad del aire con el modelo actualmente utilizado Sistema Predictivo y de Modelación de Calidad de Aire a Autoridades Ambientales.
+- Comparación del modelo elegido de machine learning para predicción de la calidad del aire con el modelo actualmente utilizado Sistema Predictivo y de Modelación de Calidad de Aire a Autoridades Ambientales de Guadalajara.
 - Comparación del modelo elegido de machine learning para prediccion de la calidad del aire con el modelo actualmente utilizado.
 - Cuantificar el impacto de contigencias ambientales sobre la movilidad de personas y productos en la ZMG.
 
@@ -251,3 +251,42 @@ A la población en general, siendo beneficiado todo ser vivo y las áreas natura
 
 ![Altos niveles de contaminantes en el aire](C:\Users\madrid.gutierrez\Documents\AWS\SAO\arbolProblemas.JPG)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Características de los datos con los que se están trabajando
+
+#### Características
+
+Anteriormente se comenzaron revisando bases de datos (BD) obtenidas de páginas cómo [Air Quality Historical Data Platform]( https://aqicn.org/data-platform/register/)
+Al obtener las BD (Bases de Datos) nos percatamos que faltaban registros de algunos contaminantes considerados (O3, CO, PM10, NO2, SO2) por día, lo cual nos llevó buscar otros lados. Se obtuvo la BD del Sistema de Monitoreo Atmosférico de Jalisco (SIMAJ) la cual tiene como periodo de datos de enero del 2014 a enero del 2020, en esta BD contamos con datos cómo: fecha de registro, contaminante medido, ubicación donde se realizo la medición (incluyendo latitud y longitud) y la concentración por elemento. Estas BD se han construido con periodos diarios y por periodos semanales ya que el tratado de los datos por hora puede resultar menos eficiente.
+
+#### Variables
+
+Se han considerado los 5 contaminantes más reconocidos (mencionados anteriormente) y de los cuales se han encontrado más registros. Datos a considerar son las temperaturas de los días y estaciones del año, también se tomó la importancia del efecto de inversión térmica en el transcurso del día.
+
+#### Información faltante
+
+La falta de de datos recientes (2020 y 2021) en la BD del SIMAJ puede representar una incoherencia si completamos con otra BD externa.
+Otra falta de información que no se ha recopilado es la de temperaturas y condiciones climatológicas que pudieran afectar el lugar y comportamiento de los contaminantes.
