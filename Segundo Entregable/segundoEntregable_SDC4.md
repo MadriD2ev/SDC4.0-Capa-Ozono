@@ -217,7 +217,7 @@ Inciden o agravan la situación el transporte el sector agrícola, industrias, q
 
 ### A quién va dirigido
 
-A la población en general, siendo beneficiado todo ser vivo y las áreas naturales dentro de la zona contaminada. 
+A la población en general, siendo beneficiado todo ser vivo y las áreas naturales dentro de la zona contaminada. Siendo posibles clientes las autoridades correspondientes, empresas y fábricas de combustión interna.
 
 
 
